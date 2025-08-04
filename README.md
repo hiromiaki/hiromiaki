@@ -28,8 +28,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Most Language Used
 
-![Hiromiaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiromiaki&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiromiaki&layout=compact&theme=radical)
 
