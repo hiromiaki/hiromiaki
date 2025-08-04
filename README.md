@@ -1,26 +1,30 @@
-# 💫 About Me
-Hi! I'm Pia — I am a student developer.
+# Hi there, I'm Pia 👋
+
+🎓 Game Developer | Web Developer | Programmer
 
 ---
 
-### 💻 Languages I Use
+## 🚀 About Me
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
+- 🎯 Currently working on a wave-based top-down shooter in Godot!
+- 🎮 Learning and improving my skills in **Game Development** using **GDScript**.
+- 💻 Also building full-stack web apps using **HTML**, **CSS**, **JavaScript**, and **PHP**.
 
 ---
 
-### 🔧 Tools & Technologies
+## 🛠️ Languages and Tools
 
-- 🧱 Game Development: Godot Engine
-- 🌐 Web Development: HTML, CSS, JavaScript, PHP
-- 💻 Programming: C#, Java
-- 🛠 Version Control: Git, GitHub
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+</p>
 
 ---
 
@@ -29,8 +33,3 @@ Hi! I'm Pia — I am a student developer.
 ![Hiromiaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiromiaki&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiromiaki&layout=compact&theme=radical)
 
----
-
-### 📫 Connect With Me
-
-Feel free to reach out or check out my work here on GitHub! 😊
