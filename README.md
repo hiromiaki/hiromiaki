@@ -6,9 +6,9 @@
 
 ## 🚀 About Me
 
-- 🎯 Currently working on a wave-based top-down shooter in Godot!
+- 🎯 Currently working on a wave-based top-down game in Godot!
 - 🎮 Learning and improving my skills in **Game Development** using **GDScript**.
-- 💻 Also building full-stack web apps using **HTML**, **CSS**, **JavaScript**, and **PHP**.
+- 💻 Also building web apps using **HTML**, **CSS**, **JavaScript**, and **PHP**.
 
 ---
 
